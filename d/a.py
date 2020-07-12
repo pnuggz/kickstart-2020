@@ -1,5 +1,3 @@
-
-
 def solve(t_case):
   n = int(input())
   v_arr = [int(i) for i in input().split(" ")]
